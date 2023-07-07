@@ -1,0 +1,9 @@
+npm i bcryptjs
+npm i dotenv
+npm i express-async-handler
+npm i jsonwebtoken
+npm i express mongoose 
+npm i morgan
+
+
+bcrypt.js dotenv express-async-handler jsonwebtoken mongoose
