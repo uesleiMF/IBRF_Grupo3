@@ -22,12 +22,7 @@ const Footer = () => {
             src="https://pbs.twimg.com/media/EfTZlEnWAAMn1lX.png"
           />
         </div>
-        <div className="card-name">
-          <img
-            alt="express"
-            src="https://icons.iconarchive.com/icons/designbolts/credit-card-payment/256/American-Express-icon.png"
-          />
-        </div>
+       
        
       </div>
     </div>
