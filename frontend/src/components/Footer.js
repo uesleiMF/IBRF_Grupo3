@@ -28,12 +28,7 @@ const Footer = () => {
             src="https://icons.iconarchive.com/icons/designbolts/credit-card-payment/256/American-Express-icon.png"
           />
         </div>
-        <div className="card-name">
-          <img
-            alt="discover"
-            src="https://icons-for-free.com/iconfiles/png/512/cash+checkout+discover+network+online+shopping+payment+method-1320191225548835050.png"
-          />
-        </div>
+       
       </div>
     </div>
   );
